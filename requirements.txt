@@ -1,0 +1,4 @@
+#TODO set up proper venv
+
+openai
+python-dotenv
